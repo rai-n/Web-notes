@@ -1,6 +1,6 @@
 # Web-notes
 
-![Cors example](images\cors.png)
+![Cors example](https://github.com/rai-n/Web-notes/blob/main/images/cors.png?raw=true)
 
 ## What is CORS
 

@@ -40,3 +40,4 @@ However, there are many legitimate use cases where a web page needs to access re
 
 In our example, the preflight request and CORS headers allow the server at myapi.com to specify that it allows requests from myapp.com while still preventing requests from other origins. This helps protect the resources on myapi.com from being accessed by unauthorized origins.
 
+![Accessing internet](image.png)
